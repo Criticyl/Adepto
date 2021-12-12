@@ -1,0 +1,6 @@
+name: Adepto
+version: '${project.version}'
+main: com.adepto.adepto.Adepto
+api-version: 1.17
+authors: [ Criticyl, lotix ]
+description: Main Plugin for Adepto
